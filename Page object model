@@ -1,0 +1,4 @@
+Page object model 
+we need manually write locators . when we uae same object multiple times , we nwwd to use same xpath for that object multiple times .
+
+in page object model 
